@@ -4,3 +4,10 @@
     height: 500px;
     background-color: #a3dedb;
 }
+
+.titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
